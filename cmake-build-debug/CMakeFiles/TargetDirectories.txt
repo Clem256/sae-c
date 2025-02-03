@@ -1,0 +1,3 @@
+/home/optimo911/CLionProjects/sae-c/cmake-build-debug/CMakeFiles/untitled.dir
+/home/optimo911/CLionProjects/sae-c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/optimo911/CLionProjects/sae-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
